@@ -1,11 +1,13 @@
-# Book_Recoemnder_System
+# Book_Recomender_System
 
 <img width="822" height="489" alt="image" src="https://github.com/user-attachments/assets/00bb93ea-507b-454a-8cec-bfcb8fb8e327" />
 
-📚 Book Recommender System
+# 📚 Book Recommender System
+
 A machine learning-based system to recommend books using popularity metrics, collaborative filtering, and clustering analysis.
 
-🚀 Project Overview
+# 🚀 Project Overview
+
 Built a recommendation engine using a dataset of:
 
 271,360+ books
@@ -14,7 +16,7 @@ Built a recommendation engine using a dataset of:
 
 Applied multiple techniques to provide personalized book suggestions.
 
-🔧 Technologies Used
+# 🔧 Technologies Used
 Python
 
 Pandas
@@ -25,7 +27,7 @@ Matplotlib / Seaborn
 
 Jupyter Notebook
 
-🧠 Recommendation Techniques Used
+# 🧠 Recommendation Techniques Used
 🔹 1. Popularity-Based Recommendation
 Recommended top-rated books with high rating counts.
 
@@ -56,7 +58,7 @@ Normalized rating distributions for fair comparison.
 
 Filtered books with sufficient rating volume for meaningful analysis.
 
-📌 Key Features
+# 📌 Key Features
 📈 Popular books based on total ratings & average score.
 
 🤝 Personalized recommendations using collaborative filtering.
@@ -66,7 +68,7 @@ Filtered books with sufficient rating volume for meaningful analysis.
 📁 Dataset Source
 Book-Crossing Dataset (GroupLens)
 
-🎯 Future Enhancements
+# 🎯 Future Enhancements
 Add NLP-based content filtering using book titles & descriptions.
 
 Include user-based collaborative filtering.
